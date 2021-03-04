@@ -61,7 +61,7 @@ nav a{
 /*Write selector/rule property to add an underline when
 links in the navigation are in the hover or focus state.*/
 nav a:hover {
-  text-decoration: 1px solid black;
+  text-decoration: underline;
 }
 
 /*Req 3a*/
